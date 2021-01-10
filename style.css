@@ -1,0 +1,139 @@
+
+
+body{
+
+padding: 20px;
+}
+h1{
+   position:relative;
+   top:100px;
+  text-align: center;
+  font-family:sans-serif;
+  color:#fdffbc;
+
+}
+.p1{
+   position: relative;
+   top:110px;
+   text-align: center;
+   font-family: cursive;
+   color:#ff577f;
+   font-size:20px;
+}
+.p2{
+  text-align: left;
+  font-family: cursive;
+  font-size:20px;
+  color:#295939;
+
+
+}
+.top-container{
+  background-color: #00587a;
+}
+.img2{
+  position: relative;
+  right: 10px;
+  padding-left: 20px;
+
+}
+
+
+.middle-container{
+  background-color: #a3ddcb;
+
+}
+.bottom-container{
+  background-color: #c1a1d3;
+
+
+line-height: 2;
+}
+.pro{
+  text-decoration: underline;
+}
+.h2{
+  text-align: center;
+  font-size: 40px;
+  font-family: cursive;
+  color:#ef4f4f;
+}
+.h3{
+  text-align: center;
+  font-size: 3rem ;
+  font-family: monospace;
+  color:#db6400;
+  padding-bottom: 60px ;
+  margin-top:0.5px;
+}
+.img3{
+padding-left: 20px;
+margin-left: 350px;
+
+
+}
+.p3{
+color: #48426d;
+padding-left: 30px;
+padding-right: 30px;
+font-size: 2rem;
+}
+.div4{
+  background-color: #ff577f;
+  height: 300px;
+}
+.h4{
+  text-align: center;
+  font-size: 40px;
+  font-family: cursive;
+  position: relative;
+  bottom:1000px;
+  color:#c0e218;
+}
+.p4{
+  text-align: center;
+  padding-top: 100px;
+  font-family: cursive;
+  font-size:30px;
+  color:#41584b;
+
+}
+.p5{
+  text-align: center;
+  font-size :0.75rem;
+  color:white;
+  line-height: 2;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color:grey;
+  width:5%;
+  border-width:5px;
+}
+.btn{
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Georgia;
+  color: #f0e51a;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover{
+  background: #3cfc49;
+  background-image: -webkit-linear-gradient(top, #3cfc49, #d94734);
+  background-image: -moz-linear-gradient(top, #3cfc49, #d94734);
+  background-image: -ms-linear-gradient(top, #3cfc49, #d94734);
+  background-image: -o-linear-gradient(top, #3cfc49, #d94734);
+  background-image: linear-gradient(to bottom, #3cfc49, #d94734);
+  text-decoration: none;
+}
